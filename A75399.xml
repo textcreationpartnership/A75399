@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the Commons, to a petition, in the name of thousands wel-affected persons inhabiting the city of London, Westminster, borough of Southwarke, and hamlets, and places adjacent.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75399</idno>
+            <idno type="STC">Wing A3289B</idno>
+            <idno type="STC">Thomason E468_27</idno>
+            <idno type="STC">ESTC R205391</idno>
+            <idno type="EEBO-CITATION">99864790</idno>
+            <idno type="PROQUEST">99864790</idno>
+            <idno type="VID">162343</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162343)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the Commons, to a petition, in the name of thousands wel-affected persons inhabiting the city of London, Westminster, borough of Southwarke, and hamlets, and places adjacent.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Spurious -- Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 23th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162343:1" rendition="simple:additions"/>
+            <p>THE ANSWER OF THE COMMONS, TO A PETITION, In the name of thouſands wel-affected perſons inhabiting the City of <hi>London, Weſt<g ref="char:EOLhyphen"/>minſter,</hi> Borough of <hi>Southwarke,</hi> and <hi>Hamlets,</hi> and places adjacent.</p>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162343:2"/>
+            <pb n="1" facs="tcp:162343:2"/>
+            <head>To the Right Honourable, the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land, &amp;c.</hi>
+            </head>
+            <opener>SHEWETH.</opener>
+            <p>
+               <hi>(A)</hi> 
+               <seg rend="decorInit">T</seg>Hat although we are as earneſtly deſirous of a ſafe and <hi>wel grounded Peace,</hi> and that a finall end were put to all the troubles and miſeries of the Com<g ref="char:EOLhyphen"/>mon-wealth, as any ſort of men whatſoever: Yet conſidering upon what grounds we engaged on your part in the late and preſent Wars, and how far (by our ſo doing) we apprehend our ſelves concerned, Give us leave (before you conclude as by the Treaty in hand) to acquaint you firſt with the ground and reaſon which induced us <hi>to aid you againſt the King</hi> and His Adherents. Secondly, What our Apprehenſions are of this Treaty. Thirdly, What we expected from you, and do ſtill moſt earneſtly deſire.</p>
+            <p>
+               <hi>(B)</hi> Be pleaſed therefore to underſtand that <hi>we had not engaged on your part, but that wee judg<g ref="char:EOLhyphen"/>ed this Honourable Houſe to be the Supreame Authority of England,</hi> as choſen by, and repreſenting the People; and entruſted with abſolute power for redreſſe of Grievances, and proviſion for Safety: and that the King was but at the moſt the chief publique Officer of this Kingdome, and accomptable to this Houſe (the repreſentative of the People, from whom all juſt Autho<g ref="char:EOLhyphen"/>rity is, or ought to be derived) for diſcharge of His Office: And if we had not been confi<g ref="char:EOLhyphen"/>dent hereof, we had been deſperately mad to have taken up Armes, or to have been aiding and aſſiſting in maintaining a <hi>War againſt Him;</hi> The Laws of the Land making it expreſly a crime no leſſe then Treaſon for any to raiſe War againſt the King.</p>
+            <p>
+               <hi>(C)</hi> But when <hi>we conſider the manifold oppreſſions brought upon the Nation, by the King, His Lords, and Biſhops;</hi> and that this Honourable Houſe declared their deepe ſence thereof; and that <hi>(for continuance of that power which had ſo oppoſed us) it was evident the King intended to raiſe Forces, and to make War;</hi> and that if He did ſet up His Standard, it tended to the diſſolution of the Government: upon this, <hi>knowing the ſafety of the people to be above Law,</hi> and that to judge thereof appertained to the Supreame Authority, and not to the Supreame Magiſtrate, and be<g ref="char:EOLhyphen"/>ing ſatisfied in our Conſciences, that the publique ſafety and freedome was in imminent dan<g ref="char:EOLhyphen"/>ger, we concluded we had not only a juſt cauſe to maintaine; but the Supreame Authority of the Nation, to juſtifie, defend, and indempnifie us in time to come, in what we ſhould per<g ref="char:EOLhyphen"/>forme by direction thereof; though againſt the knowne Law of the Land, on any inferiour Authority, though the higheſt.</p>
+            <p>
+               <hi>(D)</hi> And as this our underſtanding was begotten in us by principles of right reaſon, ſo were we confirmed herein by their own proceedings, as by your condemning theſe Iudges who in the caſe of Ship money had declared the King to be Iudge of ſafety; and <hi>by your d<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing Him to have a negative Voice</hi> in the making of Lawes; where you wholly exclude the King from having any ſhare in the Supream Authority: Then by your caſting the Biſhops out of the Houſe of Lords, who by tradition alſo, had been accounted an eſſentiall part of the Supream Authority; And by your declaring to the Lords, that if they would not joyne with you in ſen<g ref="char:EOLhyphen"/>ding the <hi>Militia,</hi> (which they long refuſed) you would ſettle it without them, which you could not juſtly have done, and they had any <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the Supreame <hi>Authority.</hi>
+            </p>
+            <p>
+               <hi>(E)</hi> Theſe things we tooke for real <hi>Demonſtration,</hi> that you undoubtedly knew your ſelves to be the Supreame Authority; over weighing downe in us all other your indulgent <hi>expreſ<g ref="char:EOLhyphen"/>ſions concerning the King &amp; Lords.</hi> It <hi>being indeed impoſſible for us to beleeve that it can conſiſt either with the ſafety, or freedome of the Nation, to be governed either by</hi> three <hi>or</hi> two <hi>Supreames,</hi> eſpecial<g ref="char:EOLhyphen"/>ly where experience hath proved them ſo apt to differ in their judgements concerning Free<g ref="char:EOLhyphen"/>dome or Safety, that the one hath been knowne to puniſh what the other hath judged worthy
+<pb n="2" facs="tcp:162343:3"/>
+of reward; when not onely the freedome of the people is directly oppoſite to the Prerogatives of the King and Lords, but the open enemies of the one, have been declared friends by the other, as the <hi>Scots</hi> were by the Houſe of Lords.</p>
+            <p>
+               <hi>(F)</hi> And when as moſt of the oppreſſions of the Common-wealth have in all times been brought upon the people by the King and Lords, who nevertheleſſe would be ſo equall in the Supreame Authority, as that there ſhould be no redreſſe of grievances, no proviſion for ſafety, but at their pleaſure. For our parts, we profeſſe our ſelves ſo far from judging this to be con<g ref="char:EOLhyphen"/>ſiſtent with Freedome or Safety, that we know no great cauſe wherefore we aſſiſted you in the late Wars, but in hope to be delivered by you from ſo intollerable, ſo deſtructive a bondage, ſo ſoone as you ſhould (through Gods bleſſing upon the Armies raiſed by you) be enabled.</p>
+            <p>
+               <hi>(G)</hi> But to our exceeding griefe, we have obſerved that no ſooner God vouchſafeth you Victory, and bleſſeth you with ſucceſſe, and thereby enableth you to put us and the whole Nation into an abſolute condition of Freedome and Safety: but according as ye have been accuſtomed, paſſing by the ruine of a Nation, and all the blood that hath been ſpilt by the King and His Party, ye betake your ſelves to a Treaty with Him, thereby puttitg Him that is but one <hi>ſingle perſon,</hi> and a <hi>publique Officer</hi> of the Common-wealth, in competition with the whole body of the people, whom ye repreſent; not conſidering that it is impoſſible for you to erect any authority equall to your ſelves; and declared to all the world that you will not alter the Ancient Government, from that of King, Lords, and Commons: nor once men<g ref="char:EOLhyphen"/>tioning (in caſe of difference) which of them is Supreame, but leaving that point (which was the chiefeſt cauſe of all our publique differences, diſturbances, Wars and miſeries) as uncertain as ever.</p>
+            <p>
+               <hi>(H)</hi> In ſo much as we who upon theſe grounds have laid out our ſelves every way to the utmoſt of our abilities: and all others throughout the Land, Souldiers and others who have done the like in defence of our Supreame Authority, and in oppoſition to the King, cannot but deeme our ſelves in the moſt <hi>dangerous condition</hi> of all others, left without all plea of <hi>In<g ref="char:EOLhyphen"/>dempnity,</hi> for what we have done, as already many have found by loſſe of their lives and liber<g ref="char:EOLhyphen"/>ties, either for things done or ſaid againſt the King; the Law of the Land frequently taking place, and precedency againſt and before your Authority, which we eſteemed Supreame, and againſt which no Law ought to be pleaded. Nor can we poſſibly conceive how any that have any waies aſſiſted you, can be exempt from the guilt of murders and robbers, by the preſent Lawes in force, if you perſiſt to diſclaime the Supreame Authority, though their owne con<g ref="char:EOLhyphen"/>ſcience doe acquit them, as having oppoſed none but manifeſt Tyrants, Oppreſſors and their adherents.</p>
+            <p>
+               <hi>(I)</hi> And whereas a <hi>Perſonall Treaty,</hi> or any Treaty with the King, hath been long time held forth as the onely meanes of a ſafe and wel-grounded Peace; <hi>it is well knowne to have been cried up principally by ſuch as have been diſaffected unto you;</hi> and though you have contradicted it, yet it is beleeved that you much feare the iſſue; as you have cauſe ſufficient, except you ſee greater alteration in the King and His party then is generally obſerved, there having never yet been any Treaty with Him, but was accompanied with ſome <hi>under-hand dealing;</hi> and whilſt the preſent force upon Him (though ſeeming liberty) will in time to come be cer<g ref="char:EOLhyphen"/>tainly be pleaded, againſt all that ſhall or can be agreed upon: nay, what can you confide in if you conſider how He hath been provoked; and what former Kings upon leſſe provocati<g ref="char:EOLhyphen"/>on have done, after Oathes, Laws, Charters, Bonds, Excommunications, and all ties of Re<g ref="char:EOLhyphen"/>conciliations, to the deſtruction of all thoſe that had provoked and oppoſed them: yea, when your ſelves ſo ſoone as he had ſigned thoſe Bils in the beginning of this Parliament, ſaw cauſe to tell them, <hi>That even about the time of paſſing thoſe Bils,</hi> ſome deſigne or other was on foot, which if it had taken effect would not only have rendred thoſe Bils fruitleſſe, <hi>but have reduced you to a worſe condition of confuſion then that wherein the Parliament found you.</hi>
+            </p>
+            <p>And if you conſider what new Wars, riſings, revolting, invaſions, and plottings have beene ſince this laſt cry for a Perſonall Treaty, you will not blame us if we wonder at your haſty proceedings thereunto: eſpecially conſidering the wonderfull Victories which God hath bleſſed the Army withall.</p>
+            <p>
+               <pb n="3" facs="tcp:162343:3"/>
+               <hi>(K)</hi> We profeſſe we cannot choſe <hi>but ſtand amazed</hi> to conſider the ine<g ref="char:EOLhyphen"/>vitable danger we ſhall be in, though all things in the Propoſitions were a<g ref="char:EOLhyphen"/>greed unto, the Reſolutions of the King and his party have been perpetually, violently, and implacably proſecuted and manifeſted againſt us; and that with ſuch ſcorne and indignation, that it muſt be more then ſuch ordinary bonds that muſt hold them.</p>
+            <p>And it is no leſſe a wonder to us, that you can place your owne ſecurity therein, or that ever you can imagine to ſee a free Parliament any more in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>(L)</hi> The truth is (and we ſee we muſt either now ſpeake or forever be ſi<g ref="char:EOLhyphen"/>lent,) We have long expected things of another nature from you, and ſuch as we are confident <hi>would have given ſatisfaction to all ſerious people of all Parties.</hi>
+            </p>
+            <p n="1">1. <hi>That you would have made good the ſupreame of the people, in this Honoura<g ref="char:EOLhyphen"/>ble Houſe, from all pretences of negative Voices, either in King or Lords.</hi>
+            </p>
+            <p n="2">2. <hi>That you would have made Laws for election of repreſentatives yearly, and of courſe without writ or ſummons.</hi>
+            </p>
+            <p n="3">3. <hi>That you would have ſet expreſſe times for their meeting, Continuance and Diſſolution: as not to exceed</hi> 40. <hi>or</hi> 50. <hi>dayes at the moſt, and to have fixed an ex<g ref="char:EOLhyphen"/>preſſe time for the ending of this preſent Parliament.</hi>
+            </p>
+            <p n="4">4. <hi>That you would have exempted matters of Religion and Gods worſhip, from the compulſive or reſtrictive power of any authority upon earth, and reſerved to the ſupreame authority an un-compulſive power onely of appointing a way for the pub<g ref="char:EOLhyphen"/>lique, whereby abundance of miſery, perſecution, and heart-burning would for ever be avoided.</hi>
+            </p>
+            <p n="5">5. <hi>That you would have diſclaimed in your ſelves and all future Repreſenta<g ref="char:EOLhyphen"/>tives, a power of preſſing or forcing any ſort of men to ſerve in Wars, there being nothing more oppoſite to freedome, nor more unreaſonable in an authority impowered for raiſing monies on all occaſions, for which, and a juſt cauſe, aſſiſtants need not be doubted: the other way ſerving rather to maintaine injuſtice and corrupt parties.</hi>
+            </p>
+            <p n="6">6. <hi>That you would have made both Kings, Queenes, Princes, Dukes, Earls, Lords, and all Perſons, alike liable to every Law of the Land, made or to be made; that ſo all perſons even the Higheſt might fear and ſtand in awe, and neither violate the publique peace, nor private right of perſon or eſtate, (as hath been frequent) without being liable to account as other men.</hi>
+            </p>
+            <p n="7">7. <hi>That you would have freed all Commoners from the juriſdiction of the Lords in all caſes: and to have taken care that all tryals ſhould be onely of twelve ſworne men, and no conviction but upon two or more ſufficient knowne witneſſes.</hi>
+            </p>
+            <p n="8">8. <hi>That you would have freed all men from being examined againſt themſelves, and from being queſtioned or puniſhed for doing of that againſt which no Law hath been provided.</hi>
+            </p>
+            <p n="9">9. <hi>That you would have abreviated the proceedings in Law, mitigated and made certaine the charge thereof in all particulars.</hi>
+            </p>
+            <p n="10">
+               <pb n="4" facs="tcp:162343:4"/>10. <hi>That you would have freed all Trade and Merchandizing from all Mono<g ref="char:EOLhyphen"/>polizing and Engroſſing, by Companies or otherwiſe.</hi>
+            </p>
+            <p n="11">11. <hi>That you would have aboliſhed Exciſe, and all kind of Taxes, except Sub<g ref="char:EOLhyphen"/>ſidies, the old and onely juſt way of</hi> England.</p>
+            <p n="12">12. <hi>That you would have laid open all late Incloſures of Fens, and other Com<g ref="char:EOLhyphen"/>mons, or have encloſed them onely or chiefly to the benefit of the poor.</hi>
+            </p>
+            <p n="13">13. <hi>That you would have conſidered the many thouſands that are ruined by per<g ref="char:EOLhyphen"/>petuall impriſonment for debt, and provided to their enlargement.</hi>
+            </p>
+            <p n="14">14. <hi>That you would have ordered ſome effectuall courſe to keepe people from begging and beggery, in ſo fruitfull a Nation as through Gods bleſſing this is.</hi>
+            </p>
+            <p n="15">15. <hi>That you would have proportioned puniſhments more equall to offences; that ſo mens Lives and Eſtates might not be forfeited upon triviall and ſlight oc<g ref="char:EOLhyphen"/>caſions.</hi>
+            </p>
+            <p n="16">16. <hi>That you would have removed the tedious burthen of Tythes, ſatisfying all Impropriators, and providing a more equall way of maintenance for the publique Miniſters.</hi>
+            </p>
+            <p n="17">17. <hi>That you would have raiſed a ſtock of Money out of thoſe many confiſca<g ref="char:EOLhyphen"/>ted Eſtates you have had, for payment of thoſe who contributed voluntarily above their abilities, before you had provided for thoſe that disburſed out of their ſuper<g ref="char:EOLhyphen"/>fluities.</hi>
+            </p>
+            <p n="18">18. <hi>That you would have bound your ſelves and all future Parliaments from aboliſhing propriety, levelling mens Eſtates, or making all things common.</hi>
+            </p>
+            <p n="19">19. <hi>That you would have declared what the duty or buſineſſe of the Kingly of<g ref="char:EOLhyphen"/>fice is, and what not, and aſcertained the Revenue, paſt increaſe or diminution, that ſo there might never be more quarrell about the ſame.</hi>
+            </p>
+            <p n="20">20. <hi>That you would have rectified the election of publique Officers for the City of</hi> London, <hi>of every particular Company therein, reſtoring the Commonalty thereof to their juſt Rights, moſt unjuſtly with-hold from them, to the producing and maintai<g ref="char:EOLhyphen"/>ning of corrupt intereſt, oppoſite to common Freedome, and exceedingly prejudiciall to the made and manufactures of this Nation.</hi>
+            </p>
+            <p n="21">21. <hi>That you would have made full and ample reparations to all perſons that had been oppreſſed by ſentences in high Commiſſion, Star-chamber, and Councell Board, or by any kind of Monopolizers, or projectors, and that out of the eſtates of thoſe that were authors, actors or promoters of ſo intollerable miſchiefs, and that without much attendance.</hi>
+            </p>
+            <p n="22">22. <hi>That you would have aboliſhed all Committees, and have conveyed all buſi<g ref="char:EOLhyphen"/>neſſes into the true method of the uſuall Trials of the Common wealth.</hi>
+            </p>
+            <p n="23">23. <hi>That you would not have followed the example of former tyrannous and ſu<g ref="char:EOLhyphen"/>perſtitious Parliaments, in making Orders, Ordinances or Laws, or in appointing puniſhments concerning opinions of things ſupernaturall, ſtyling ſome blaſphemies, others hereſies; when as you know your ſelves eaſily miſtaken, and that divine truths need no humane helpes to ſupport them: ſuch proceedings having been gene<g ref="char:EOLhyphen"/>rally
+<pb n="5" facs="tcp:162343:4"/>
+invented to divide the people amongſt themſelves, and to affright men from that liberty of diſcourſe by which corruption and tyranny would be ſoon diſcovered.</hi>
+            </p>
+            <p n="24">24. <hi>That you would have declared what the buſineſſe of the Lords was, and aſ<g ref="char:EOLhyphen"/>certaine their condition, not derogating from the liberties of other men, that ſo there might be an end of ſtriving about the ſame.</hi>
+            </p>
+            <p n="25">25. <hi>That you would have done juſtice upon the capitall authors, and promoters of the former or late Wars, many of them being under your power: Conſidering that mercy to the wicked, is cruelty to the innocent: and that all your lenity doth but make them the more inſolent and preſumptuous.</hi>
+            </p>
+            <p n="26">26. <hi>That you would have provided conſtant pay for the Army now under the Command of the Lord Generall</hi> Fairfax, <hi>and given rules to all Judges, and all o<g ref="char:EOLhyphen"/>ther publique Officers throughout the Land for their Indempnity, and for the ſaving harmeleſſe all that have any wayes aſſiſted you, or that have ſaid or done any thing againſt the King, Queen, or any of His party ſince the beginning of this Parlia<g ref="char:EOLhyphen"/>ment, without which any of His party are in a better condition then thoſe who have ſerved you; nothing being more frequent with them, then their reviling of you and your friends.</hi>
+            </p>
+            <p>
+               <hi>The things and worthy Acts which have been done and atchived by this Army, and their adherents (however ingratefully ſuffered to be ſcandalized as Sectaries, and men of corrupt judgements) in defence of the juſt authority of this honourable Houſe, and of the common liberties of the Nation, and in oppoſition to all kind of Ty<g ref="char:EOLhyphen"/>rannie and oppreſſion, being ſo far from meeting an odious Act of Oblivion, that they rather deſerve a most honourable Act of perpetuall remembrance, to be as a paterne of publique vertue, fidelity, and reſolution to all poſterity.</hi>
+            </p>
+            <p n="27">27. <hi>That you would have laid to heart all the abundance of innocent blood that hath been ſpilt, and the infinite ſpoile and havock that hath been made of peaceable harmleſſe people, by expreſſe Commiſſions from the King; and ſeriouſly to have con<g ref="char:EOLhyphen"/>ſidered whether the juſtice of God be likely to be ſatisfied, or his yet continuing wrath appeaſed, by an Act of Oblivion.</hi>
+            </p>
+            <p>
+               <hi>Theſe and the like we have long time hoped you would have minded, and have made ſuch an eſtabliſhment for the generall peace and contentfull ſatisfaction of all ſorts of people, as ſhould have been to the happineſſe of all future generations, and which we moſt earneſtly deſire you would ſet your ſelves ſpeedily to effect; whereby the almoſt dying honour of this moſt honourable Houſe, would be againe revived, and the hearts of your Petitioners and all other wel-affected people, be freſh renewed unto you, the Freedome of the Nation (now in perpetuall hazard) would be firmely eſtabliſhed, for which you would once more be ſo ſtrengthened with the love of the people, that you ſhould not need to caſt your eyes any other wayes (un<g ref="char:EOLhyphen"/>der God) for your ſecurity: but if all this availeth nothing, God be our Guide for man ſheweth us not a way for our preſervation.</hi>
+            </p>
+         </div>
+         <div type="answer">
+            <pb n="6" facs="tcp:162343:5"/>
+            <head>The Anſwer of the Commons, to a Petition, in the name of thouſands welaffected perſons, &amp;c.</head>
+            <p>
+               <hi>(A)</hi> 
+               <seg rend="decorInit">T</seg>His Houſe is very well pleaſed with your deſires of Peace, and hopes, that (when you are ſatisfied, the waies by you propounded for obtaining it, are not conducing to that end, but tending to the encreaſe of ſuch meanes, as may make the War endleſſe, and the troubles of this Kingdome infinite) your right affections will follow right reaſon, and they therefore are willing to informe you of thoſe miſtakes, which were the cauſe of thoſe Propoſitions, which you have framed in or<g ref="char:EOLhyphen"/>der to Peace.</p>
+            <p>And firſt, we cannot but take notice of what you ſay, <hi>that you engaged on our part againſt the King;</hi> You know we raiſed Armes at firſt, and engaged ſuch, as aſſiſted us for King and Parliament; and you know both we and you, tooke<note n="*" place="margin">May 1641.</note> a Proteſtation to defend the Kings Perſon, Honour and Eſtate; and you know both you and we are the Kings Subjects, and ought by the duty of our Allegeance to adhere to Him and defend Him: and we cannot make War upon Him, nor on our fellow Subjects (His adherents) without breach of our Allegeance; All which might ſufficiently informe you, that we have made no avowed War againſt the King, but againſt His evill Councellors: and we beleeved, if we ſhould have told you, that we intended to make War againſt the King, you would not have aided us at all, knowing it high Treaſon, (as you profeſſe you doe) which was the reaſon the engagement was for King and Parliament.</p>
+            <p>Next we wiſh, that you would keepe your ſelves within the bounds of obe<g ref="char:EOLhyphen"/>dience, and not preſume to anticipate our Councels, and prevent our pro<g ref="char:EOLhyphen"/>ceedings, as you doe, by telling us, what you expect our reſolutions to be, we are contented to receive information of your grievances from you, but muſt not be ſchooled, or Magiſtrated by you, although in the beginning, we gave way to ſome ſuch Petitions, in regard of the diſtempers of your minds, whereby the Lords and many of our owne Members, were over-awed, yet this Houſe cannot approve that ſuch courſes are agreeable to Law or Reaſon.</p>
+            <p>
+               <hi>(B)</hi> Where you ſay, that <hi>you had not engaged on the part of this Houſe, but that you judged this Houſe the ſupreame authority of England,</hi> is very ſtrange to us; your ſelves, as we beleeve (as well as we) having according to the com<g ref="char:EOLhyphen"/>mon duty, and the Law of the Land, acknowledged before God, that <hi>the King is the onely Supreame Governour of this Realme, over all perſons, and in all cauſes,</hi> and bound our ſelves by Oath to defend that His <hi>Supremacy;</hi> and we alwayes
+<pb n="7" facs="tcp:162343:5"/>
+call our ſelves His Commons, and His Houſe of Commons, and make Petiti<g ref="char:EOLhyphen"/>ons to Him for His grace and favour, ſtyling Him (as He is) our moſt gra<g ref="char:EOLhyphen"/>tious Soveraigne, and Leige Lord; and the experience of all times, and the opinion of all men of ſound judgement (Divines and Lawyers) being, that this Kingdome is a Monarchy, and ſo acknowledged in many Acts of Parliament, and this Houſe was inſtituted by the Kings Predeceſſors; All Townes ſend<g ref="char:EOLhyphen"/>ing Burgeſſes by their Grants: And you know you ingaged for the Lords, as well as for this Houſe. We beleeve your mention of our Supremacy is but a pretence, and that you meane to aſſume the power you ſay is in the people, and exclude this Houſe, as well as King and Lords. It is true, the Members of this Houſe were choſen by the people of the ſeverall Countries and Townes, that ſent us to repreſent their Petitions to the King, not themſelves againſt the King; and our conſent to ſuch things as the King ſhall pl aſe to enact, is neceſ<g ref="char:EOLhyphen"/>ſary; but you omit that we are called by the Kings Writ, without which, we could not come together, nor be ſent; And we are not called to redreſſe grievances, but to preſent them: for you may very well know the courſe that all Parliaments, (at leaſt the Houſe of Commons) have taken in this kinde, which is to Petition the King for redreſſe, and after advice for proviſion of ſafety.</p>
+            <p>That which you ſay, <hi>that the King was at moſt, but the chief publique Officer of this Kingdome,</hi> is contrary to the profeſſions of this Houſe in this preſent Parliament, divers Acts of former Parliaments, and the knowne Law; and its a title no age in this Kingdome ever heard of: Could you imagine, that the Supreame Governour is but an Officer, there being no power to command Him, all being His Subjects? Looke into the Scripture; were the Kings there Officers to any? and hath the King of <hi>England</hi> leſſe power, then God allowed the Kings of his owne people? or have the people of <hi>England</hi> greater power, then the people of God had? Its true, Kings are Miniſters of God, but Ru<g ref="char:EOLhyphen"/>lers of the people; and there is nothing more abſurd, then that he who is the Ruler of all, ſhould be intitled only an Officer to all; Its true, the functi<g ref="char:EOLhyphen"/>on of a King is profitable to all, and He watches for the good of all, but it no way agrees to His calling to be an Officer in that ſenſe; that is, to be ſubor<g ref="char:EOLhyphen"/>dinate to any, and cannot ſtand with His Supremacy, which we have ſworne to defend.</p>
+            <p>And againſt what you ſay; All the Laws of our Kingdome tell us, the King is accountable to none but God onely; and this hath been ſo knowne a truth, as this Houſe thought none had been ignorant of it; and this Houſe hath ne<g ref="char:EOLhyphen"/>ver pretended to any ſuch power,<note place="margin">Ed. 2. R.</note> though it hath ſometimes contributed to the ends of ſome Trayterous uſurpers againſt their lawfull Kings, being over-aw<g ref="char:EOLhyphen"/>ed by terrour of Armies, and thereby, no lawfull Parliaments; And you are exceedingly deceived, in that you ſay, that all authority is derived from the people, for God gives the King His Authority; and in the Scripture you find
+<pb n="8" facs="tcp:162343:6"/>
+no authority derived from the people to their Judges or Kings, that being from the Lord; and it pleaſes God to call himſelfe a King, and the Saviour of the world to be typified by Kings,<note place="margin">Pſal 82.</note> and the Scripture cals <hi>Kings, Gods;</hi> and if all power had been derived from the people, thoſe titles had been very in<g ref="char:EOLhyphen"/>compatible to their Office; And if you cannot finde any proofe of ſuch a de<g ref="char:EOLhyphen"/>rivation in Scripture, its too dangerous a precipice to put our ſelves on, by running into ſo grievous a ſin as Rebellion, upon imaginary ſtories; and we are very ſorry that you had an ill ground in taking up Armes, and a worſe in<g ref="char:EOLhyphen"/>tention to turne them againſt your King; The Law of the Land (as your ſelves expreſſe) making it Treaſon to raiſe War againſt the King; and that being ſo without all exception, and no plea againſt it, you may aſſure your ſelves, that this Houſe had no ſuch power as you meane, for there would not have been ſuch a Law for the King, and none for it, if it were ſo; And therefore you ſee how you were deceived, and what need there is both of Peace, and of an Act of Oblivion, in regard of His Majeſty, and the pardon of Almighty God, for the many evils you have fallen into by this miſtake.</p>
+            <p>
+               <hi>(C)</hi> You ſay <hi>you conſidered the manifold oppreſſions brought upon the Nation by the King, His Lords, and Biſhops;</hi> You very well know, that in the many Remonſtrances of this Houſe to the King, we ſtill proteſted, that though we repreſented our grievances to Him, it was with no thought to caſt any ble<g ref="char:EOLhyphen"/>miſh upon His Majeſty, but that we knew they were the faults of His Mini<g ref="char:EOLhyphen"/>ſters, and we muſt have cenſured our ſelves, if we ſhould have ſpoken evill of our Soveraigne, and muſt therefore blame this your expreſſion <hi>of oppreſſion by the King;</hi> And to let you ſee your fault, looke on the Ship-money, in whom was the fault there? though we ſay it were an oppreſſion; was it not in ſuch as adviſed the King, that by Law He might doe it, and theſe were the ſworne Judges?</p>
+            <p>You know the great aſſiſtance this Houſe hath had from the Lords this Parliament, and therefore you do not well to charge the Lords with oppreſ<g ref="char:EOLhyphen"/>ſion in generall; if any Lords have done amiſſe, it is not the fault of others, nor of their order or condition, and it hath been a grievous crime among the people, that whenever there was any offence committed by any perſon, they would forthwith reproach all men of the ſame calling; a courſe as fooliſh, as uncharitable, to accuſe the Government for the perſons faults: yet this ap<g ref="char:EOLhyphen"/>peared to be the greateſt cauſe of complaint againſt the Biſhops, that ſome of them had done amiſſe; and you muſt acknowledge that our engagement was to remove ſuch oppreſſions as were breaches of Law, not to fight againſt the Law it ſelfe, nor to uſurpe a power over the people: And it ſeemes you are perſwaded, that <hi>our Laws are oppreſſion;</hi> and how then could this Parlia<g ref="char:EOLhyphen"/>ment proceed to judge any perſons guilty of offences againſt Laws, if the Laws themſelves were more criminall then the perſons? And you would here<g ref="char:EOLhyphen"/>by make us guilty of the blood taken for breach of Law, at your owne impor<g ref="char:EOLhyphen"/>tunity;
+<pb n="9" facs="tcp:162343:6"/>
+for no man can be puniſhed by the Law, but for offending againſt the King, and you ſay <hi>you fought to take away the King,</hi> and then there is no Male<g ref="char:EOLhyphen"/>factor; and ſo would have us deſtroy men by that Law you ſay you fought to take away: And we aſſure you, we know no better condition to reſtore the Kingdome unto, then to be governed by the Lawes eſtabliſhed, whereby they are the freeſt people of the world, and were ſo in all ages paſt; And when you profeſſe the cauſe of your aſſiſting us was to <hi>deſtroy the Law,</hi> you make your ſelves more guilty of blood then the Kings party, who ſay they fight for it.</p>
+            <p>In that you ſay <hi>that for the continuance of that power, that had oppreſt you, it was evident the King intended to make War;</hi> Its true, the King did raiſe Forces, but this Houſe never ſaid, that it was to continue the power that oppreſt the people; for all the world knowes, that in the matters complained of as op<g ref="char:EOLhyphen"/>preſſions, He had clearly quitted them long before; And this Houſe declared, that, War tended to the diſſolution of Government, in regard the Laws (in time of hoſtility) have not their force, but that doth not diſſolve our Allege<g ref="char:EOLhyphen"/>ance to the King, nor deſtroy any of His rights.</p>
+            <p>You ſay, <hi>you know the ſafety of the people to be above all Law,</hi> but you are ve<g ref="char:EOLhyphen"/>ry much deceived in the application of that ſentence, which, though wiſely ſaid by the Philoſopher, is no Canonicall Scripture, nor of any validity to di<g ref="char:EOLhyphen"/>ſpence with our obedience, where the word of God requires it; nor is that ſaying underſtood by you; for <hi>that the ſafety of the people is the Supreame Law,</hi> is a direction to the Princes, and Rulers of the people, and to Kings, not to the people at all; for if the people ſhould judge what is for the ſafety of the people, the Governours were in vaine, and you might as well ſay the Army ſhould lead the Generall, which your owne experience knowes to be monſte<g ref="char:EOLhyphen"/>rous; and this Houſe knowes no Supreame Authority, but that of the King, which we have ſworne to defend, and there cannot <hi>be two Supreames in one Kingdome,</hi> as your ſelves acknowledge, and it is impoſſible it ſhould be, for Parliaments ſit not but at the Kings pleaſure, and therefore they wonder you ſhould imagine ſuch an authority in it; And ſo you ſee your ſelves deceived, both in the authority and cauſe fancied; And we underſtand not, what you meane <hi>by acting the higheſt which you might doe;</hi> and if you intend thereby any violence to His Majeſties Perſon, which we ſuſpect you doe, we abhor the thought of ſo horrid an action, and wiſh you to repent for ſuch thoughts, if they have entred into your minds.</p>
+            <p>
+               <hi>(D)</hi> As you were deceived in your grounds for right reaſon, flattering your ſelves with your private opinions, ſo much more, in ſuch as you take from the proceedings of this Houſe; for the Judges were not condemned by it for declaring the King to be the Judge of ſafety, but for the conſequence they deduced from thence, which was to levie Ship-money, for you very well knew, that there may be, as there have been, ſuch ſuddaine accidents, when it
+<pb n="10" facs="tcp:162343:7"/>
+is impoſſible to call a Parliament, whereby the ſafety of the Kingdome may be in danger, and the time required for the King to provide the remedy loſt; and this your ſelves muſt needs acknowledge.</p>
+            <p>And we <hi>never denied the King a negative Voice,</hi> as you ſay, but we ſaid, he ought to conſent to ſuch good Laws, as His two Houſes ſhould preſent to Him; but that is not to deny Him a <hi>negative Voice;</hi> And we muſt acknow<g ref="char:EOLhyphen"/>ledge there can be no Law of force without His conſent, and He muſt judge it good, or elſe He is not bound to give His conſent, for otherwiſe His condi<g ref="char:EOLhyphen"/>tion were worſe then a Subject.</p>
+            <p>For <hi>taking away the Biſhops votes out of the Lords Houſe,</hi> you know there was an Act with the conſent of the King and Lords, without which it could not have been done: and though upon your importunate Petition this Houſe ſaid, they would ſettle the <hi>Militia</hi> without the Lords (doubting the violence then threatned,) it doth not follow they could have done it; But we beleeve that thereby, and by your tumults, the Lords (that remained) were moved to joyne with us, which otherwiſe they would not have done: But theſe procee<g ref="char:EOLhyphen"/>dings ought not to be drawne into example, nor the conſequences of theſe actions expected from us, no more then your threats, which cauſed many Members to depart, ſit ſilent, or conſent to what you would have. If you ac<g ref="char:EOLhyphen"/>count <hi>this Houſe the Supreame Authority,</hi> you ought no more to have threat<g ref="char:EOLhyphen"/>ned them, then ſuch as now ſit, for they were as much truſted by their Countries, as thoſe that remaine, and their Countries that ſent them cannot in juſtice be bound by what is done, when their Truſtees are driven away; nor can a part remaining be the repreſentative body of the people.</p>
+            <p>
+               <hi>(E)</hi> You miſtake Demonſtrations for Suppoſitions, and you extend the ex<g ref="char:EOLhyphen"/>preſſions of this Houſe to your own deſires, to have them profeſſe Supremacy to the King &amp; Lords beyond our meaning: So you do us injury, when you call <hi>our expreſſions indulgent,</hi> that declare our judgement of the Right of the King, and Lords, and ſay they are weighed downe by thoſe other proceedings of ours, and ſo would brand us for double dealing, and impoſture with the people: And we wonder (ſince you know we pretend not to power to give an Oath, nor judge a Crime, but tranſmit it to the Lords for their judgement) that you ſhould (againſt all example) imagine ſuch a power in this Houſe, which we never had, nor can without horrid impiety aſſume; And all judge<g ref="char:EOLhyphen"/>ments and puniſhments acted by the Lords, or this Houſe, are done by power derived from the King, and in His name, as your ſelves well know, and with<g ref="char:EOLhyphen"/>out which no obedience were due by the people to them, or us: And we can<g ref="char:EOLhyphen"/>not execute, nor claime any more, then we have by the knowne Law of the Land, and by the graunts of His Majeſty, and former Princes. And you would have ſuch words, as were uſed by us in caſes of difference touching Priviledges claimed by us, to out weigh ſuch determinations, as were made upon long conſideration, for it fals out often, that though we have claimed ſomething
+<pb n="11" facs="tcp:162343:7"/>
+as of right belonging to us, we have been ſatisfied of the contrary upon de<g ref="char:EOLhyphen"/>bate.</p>
+            <p>Its indeed impoſſible as you ſay, that <hi>you ſhould beleeve that it can conſiſt with ſafety or freedome, to be governed either by two or three Supreames;</hi> and as impoſſible for you to beleeve, that <hi>England</hi> hath been ſo governed, or that there is any Supreame but the King, the deniall whereof upon mens imagina<g ref="char:EOLhyphen"/>tions, that it ſhould not be ſo, (againſt all experience, and the fundamentall conſtitutions of the Kingdome) were too great folly and impudence; and you ought not to conclude, what the right is by the preſent practice againſt all Antiquity, there having been many things acted in theſe times of diſtemper, which cannot be juſtified in quiet times.</p>
+            <p>
+               <hi>(F)</hi> The Kings Supremacy hath been alwaies acknowledged; and the two Houſes His great Councell; And by advice of the Lords, and requeſt of the Commons ſuch Lawes have been enacted by the Kings Predeceſſors, as we pro<g ref="char:EOLhyphen"/>feſſe to fight for; and by this Government this Kingdome enjoyed the grea<g ref="char:EOLhyphen"/>teſt ſtability and happineſſe that hath been knowne: And the Argument you uſe, that <hi>the Negative of the King and Lords hinders Reformation,</hi> may be uſed againſt all Governours, when the people are unruly, who charge their Gover<g ref="char:EOLhyphen"/>nours with oppreſſion, and ſay they muſt not be Judges of it, but the people; which is a ſtate of confuſion, not lawfull liberty: nor is this conſtitution a bon<g ref="char:EOLhyphen"/>dage, but the peoples ſecurity, (which by ſuch principles of corrupt reaſon as you propound) would be deſtroyed, and violence and diſorder eſtabliſhed; And you thereby diſcover your impatience to live under any Government but ſeeke to live after your owne will, whereby you condemne the practice of all Chriſtians in the beſt times, and nullifie the Rules of ſubjection God hath preſcribed.</p>
+            <p>
+               <hi>(G)</hi> You muſt know, that the taking of Armes by the King, doth not can<g ref="char:EOLhyphen"/>cell the obligation we have of Allegeance to His Majeſty; And its a great errour in you to expect from us, that we ſhould alter the Government, or in<g ref="char:EOLhyphen"/>jure Him; And as its impoſſible for the Supreame Authority to erect a power equall to it ſelfe; ſo that being acknowledged in the King, it were great preſumption and wickedneſſe in us to ſeeke to take it from Him, nor can we; And if we take from Him what is not juſtly ours, by force, we gaine no right by it, but guilt and infamy; And we know, that its for the good of all, that the King have His right, and it tends to the deſtruction of the whole people to keepe it from Him.</p>
+            <p>And you ſee in the Divine Story, that when <hi>there was no King in Iſrael,</hi>
+               <note place="margin">Iudges 17.6.</note> 
+               <hi>every man did what he pleaſed,</hi> and ſithence the Scriptures have given ſuch titles to Kings, and expreſſed the neceſſity of their calling, and the people eſteeme them the breath of their noſtrils, and the publique ſafety bound up in that of their Kings, its a ſtrange Apoſtacy in you againſt all duty, Oathes and exam<g ref="char:EOLhyphen"/>ples of Godly men in all ages, to vilifie your Soveraigne (to whom onely
+<pb n="12" facs="tcp:162343:8"/>
+you have ſworne Allegeance) with the tearmes of ſingle perſon, publique Of<g ref="char:EOLhyphen"/>ficer; and you forget, that there is no ſlavery equall to Faction, nor any ſure remedy for Faction, but Monarchy; You know, you are not the whole peo<g ref="char:EOLhyphen"/>ple, and that more differ from you in this opinion, then joyne with you, and that its more neceſſary you ſhould be reconciled, then waſted by continuall diviſions.</p>
+            <p>
+               <hi>(H)</hi> While you <hi>hold your ſelves guilty of puniſhments, and would have our Authority to be your indempnity;</hi> you betray your great folly, and diſloyalty; Can you with a good conſcience breake the Lawes you are ſubject to? and if you have committed murder, and Treaſon againſt the Laws, doubtleſſe our Authority cannot excuſe you againſt God, nor the Law; and though force might ſecure you from puniſhment, it cannot from guilt, nor the wrath of God, whom you have offended, being perſwaded as you are, that your acti<g ref="char:EOLhyphen"/>ons were <hi>murder and treaſon by the Law of the Land,</hi> and your conſciences can<g ref="char:EOLhyphen"/>not acquit you from doing actions againſt wicked perſons, tyrants, and op<g ref="char:EOLhyphen"/>preſſors, they being not judged ſo by the Law, and you may as well uſe that reaſon againſt us, if you like not our procedings, as againſt His Majeſty; And if you, and every man may with a good conſcience kill and deſtroy ſuch as you judge oppreſſors, Laws are to no purpoſe; and where God hath not gi<g ref="char:EOLhyphen"/>ven the ſword, its no leſſe then Rebellion to uſe it; and its a moſt prophane, and more then heatheniſh barbariſme, to profeſſe ſuch a deſtructive Principle; Know this, that no man hath power of the life of another, but where the Law hath given it, he ſtands and fals to his owne Maſter; and if you kill againſt the Law, be aſſured your conſciences cannot acquit you, for you have no right to the ſword, and he dies (as innocent) that dies by your hands in ſuch caſes.</p>
+            <p>
+               <hi>(I)</hi> You ſay the <hi>Perſonall Treaty hath been cried up moſt by ſuch as have been been diſaffected to us;</hi> we ſhould be ſorry that ſuch as were beſt affected to us ſhould be leſſe deſirous of peace then any, which tis impoſſible to have without a Treaty; And we are ſorry to ſee you manifeſt an affection tending to the deſtruction of your Country, to diſſwade us from a Treaty, and offer ſuch conſiderations of impoſſibilities to have a Peace; as are the preſent force upon the King, and the Provocations uſed to him; and you make the feare of your owne guilt a cauſe to continue the War; as if Chriſtians could never forget offences, nor wiſe Princes pardon, nor prefer what's beſt for their people, which is Peace, but ſeeke private revenge before publique good; You would not have a Treaty nor Peace with the King, becauſe you have of<g ref="char:EOLhyphen"/>fended Him; and this Houſe beleeves, that ſome Malignant perſons, that are void of all Chriſtianity and affection to their Country, have inſerted theſe uncharitable and bloody Principles; And as you bring forth the examples of former Kings breaking their words, ſo you ſhould remember likewiſe, there could never be reſt to the Kingdome in former diſſentions, till Kings were re<g ref="char:EOLhyphen"/>ſtored; and as we know not any <hi>underhand dealing by the King in former
+<pb n="13" facs="tcp:162343:8"/>
+Treaties,</hi> which you talke of, ſo that expreſſion you mention, of <hi>deſignes on foot to make the Bils paſſed fruitleſſe,</hi> was never intended to reflect on the King, but on His Miniſters; And whiles you take notice of the <hi>riſings</hi> and <hi>Victories,</hi> you might take notice, that you cannot ſee when there will be an end of ſuch riſings; for you did not expect them a year ſince, and what ano<g ref="char:EOLhyphen"/>ther year may produce, we cannot tell, and we may fear, God will not bleſſe us longer with Victories, if we be enemies to Peace.</p>
+            <p>
+               <hi>(K)</hi> Your <hi>ſtanding amazed</hi> proceedes from your miſtakes, and while you pretend danger from the Kings Party as enraged againſt you, the expreſſions of your paſſions againſt them appeares more criminall, then what you charge them with, and doth not become ſuch as profeſſe to fight for <hi>Religion</hi> and <hi>Li<g ref="char:EOLhyphen"/>berty.</hi>
+            </p>
+            <p>
+               <hi>(L)</hi> We give you our ſence of the Particulars mentioned by you, which you ſay <hi>would ſatisfie all ſerious people of all parties,</hi> and hope that will ſilence you for the time to come.</p>
+            <p n="1">1. <hi>We cannot pretend to the Supreame Authority of the people in this Houſe, it being in the King by Law and the conſtant ſubmiſſion of the people; we having onely their Petitionary power, as all Parliaments acknowledge; And to deny the Negative of the King and Lords, were Robbery, when we take that is not due to us; and Rebellion and diſobedience ſo to uſurpe on our King the Father of our Country; and a breach of our truſt to the people, from whom we have no ſuch power, but only to conſent to ſuch things, as ſhall be ordained by Common-councell, that is, by the King with the advice of the Lords.</hi>
+            </p>
+            <p n="2">2, 3. <hi>Its out of our power, and not profitable for the Kingdome to have Parlia<g ref="char:EOLhyphen"/>ments every year, as experience hath taught us, and that is well provided for by Bill already; And we ſhall be content to ſet a time for the end of this Parliament, becauſe it is againſt the fundamentall conſtitutions of the Kingdome, and the Li<g ref="char:EOLhyphen"/>berty of the Subject to have it perpetuall, or longer.</hi>
+            </p>
+            <p n="4">4. <hi>To exempt matters of Religion and Gods worſhip from coercive power, be<g ref="char:EOLhyphen"/>comes not a Chriſtian State; and is contrary to all example.</hi>
+            </p>
+            <p n="5">5. <hi>That the Supreame Authority ſhould not have power to preſſe Subjects, ſtands not with reaſon nor ſafety of the Kingdome.</hi>
+            </p>
+            <p n="6">6. <hi>To make all men alike, and deſtroy all civill ſubordination as the Article tends to, is contrary to the Laws and ſafety of this Kingdome.</hi>
+            </p>
+            <p n="7">7. <hi>That the Commons ſhould be freed from the juriſdiction of the Lords we con<g ref="char:EOLhyphen"/>ceive is the Law eſtabliſhed, and the triall by twelve men, the liberty of the Com<g ref="char:EOLhyphen"/>mons: Only upon appeales by Writ of Error a cauſe may be adjudged in the Lords Houſe by the advice of the Judges and Kings Councell.</hi>
+            </p>
+            <p n="8">8. <hi>The eighth is the Law already, that, &amp;c.</hi>
+            </p>
+            <p n="9">9. <hi>We ſhall endeavour to eſtabliſh it.</hi>
+            </p>
+            <p n="10">10. <hi>This ſhall be done as full as ſtands with the benefit of the Kingdome,</hi>
+            </p>
+            <p n="11">11. <hi>This likewiſe we deſire to effect, ſo far as may ſtand with the preſervation of the Kingdome.</hi>
+            </p>
+            <p n="12">
+               <pb n="14" facs="tcp:162343:9"/>12. <hi>We ſhall take care to have the beſt uſe made of thoſe grounds for the pub<g ref="char:EOLhyphen"/>lique good.</hi>
+            </p>
+            <p n="13">13. <hi>This we ſhall likewiſe take care to provide for.</hi>
+            </p>
+            <p n="14">14. <hi>We thinke this fit to be done.</hi>
+            </p>
+            <p n="15">15. <hi>We ſhall conſider of the defects herein if any be.</hi>
+            </p>
+            <p n="16">16. <hi>We know not a more equall way, then Tythe for the Miniſters, and thinke any other way would be worſe, this being moſt agreeable to Scripture.</hi>
+            </p>
+            <p n="17">17. <hi>We thinke you have no cauſe to complaine of this.</hi>
+            </p>
+            <p n="18">18. <hi>Though future Parliaments cannot be bound by the preſent, you need not doubt, that any Parliament will aboliſh propriety, unleſſe it be to ſatisfie Tumults.</hi>
+            </p>
+            <p n="19">19. <hi>For the Kings Authority is ſufficiently knowne, and His revenue muſt be taken care of, but it may lawfully increaſe and cannot be diminiſhed without inju<g ref="char:EOLhyphen"/>ſtice and damage to the Kingdome.</hi>
+            </p>
+            <p n="20">20. <hi>This ought to be examined and reformed if there be cauſe.</hi>
+            </p>
+            <p n="21">21. <hi>We do not eſteeme all men oppreſſed, that were ſentenced in Star-Chamber, High Commiſſion, and Councell-Boord, but for ſuch as have been, they ought to be repaired according to Law and Juſtice.</hi>
+            </p>
+            <p n="22">22. <hi>All Committees ſhall be aboliſhed, and matters left to ordinary proceed<g ref="char:EOLhyphen"/>ing; for the Kingdome cannot be quiet, untill it be done.</hi>
+            </p>
+            <p n="23">23. <hi>We ſhall not follow the examples of former ill Parliaments, and take you heed you do not preſſe us to it.</hi>
+            </p>
+            <p n="24">24. <hi>Its already anſwered.</hi>
+            </p>
+            <p n="25">25. <hi>We wonder you ſhould confeſſe your ſelves guilty of Treaſon, and cry for ſe<g ref="char:EOLhyphen"/>verity upon thoſe, that deſire not mercy; and if we put them to death without breach of any Law, they die innocent, and we ſhall be guilty of their blood.</hi>
+            </p>
+            <p n="26">26. <hi>Would you have all Taxes laid downe and an Army kept up? and would you have men puniſhed for offences, and your ſelves ſpared? you know the Judges are ſworne to do according to Law, and do you thinke they can acquit the guilty (as you judge your ſelves to be) againſt their Conſcience upon our direction? and ſhould we direct them againſt Law, and pretend zeale for Law? you ſee what reaſon there is for an Act of Oblivion, and no doubt the Hiſtory of theſe times will be written, and poſterity will judge, and if you have broken the Law, (as you ſeeme to confeſſe it) all the pretences in the world cannot alter the fact.</hi>
+            </p>
+            <p n="27">27. <hi>In the War no doubt many innocent perſons have ſuffered by your hands, as well as by the Kings; and ſelfe-juſtifications and boaſtings will not appeaſe the wrath of God; in the meane time there muſt be an end of War, and Gods and the Kings mercy implored.</hi>
+            </p>
+            <p>
+               <hi>We know the happineſſe of Peace and the miſery of War, and the people will ſoone find (if we be a meanes to continue the War) whence their ſufferings have come; and we have juſt cauſe to feare, we ſhall find a greater loſſe of honor, then yet we have diſcerned; and you that account your ſelves the people will find more againſt you, then for you.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
